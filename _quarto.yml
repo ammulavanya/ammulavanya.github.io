@@ -4,30 +4,32 @@ project:
 website:
   title: "Ammu Lavanya"
   site-url: https://ammulavanya.github.io
+
+  # Navbar: put tabs on the RIGHT (only CV, Research, Teaching)
   navbar:
     background: white
     pinned: true
     collapse: true
-    left:
-      - href: index.qmd
-        text: Home
+    left: []          # keep empty so nothing appears on the left
+    right:
       - href: cv.qmd
         text: CV
       - href: research.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
+
   page-footer:
     left: "© Your Name"
     right: ""
 
 format:
   html:
-    theme: cosmo     # light Bootstrap base; we override most styles below
+    theme: cosmo
     css: styles.scss
     toc: false
     smooth-scroll: true
     grid:
-      body-width: 820px   # nice, readable column width (like Megha’s)
+      body-width: 820px      # narrow, readable column like Megha's
       margin-width: 0
       gutter-width: 24px
