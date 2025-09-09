@@ -9,6 +9,4 @@ page-layout: article
 
 
 
-<!-- Optional headshot later:
-![](myphoto.jpg){width=160px .rounded}
--->
+
