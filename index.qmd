@@ -3,10 +3,4 @@ title: "Home"
 page-layout: article
 ---
 
-# Ammu Lavanya
-
-
-
-
-
-
+Welcome! I am a PhD candidate in Economics
