@@ -1,94 +1,157 @@
-.navbar {
-  background-color: #b76e79 !important;   /* deep blue */
-  border-bottom: none;                    /* remove bottom border */
+/* =========================
+   1. NAVBAR STYLING
+   ========================= */
+
+/* Set Bootstrap variables so Quarto's theme picks them up */
+:root {
+  --bs-primary: #003366;               /* Navbar background color — Megha's */
+  --bs-navbar-color: #ffffff;          /* Default navbar text */
+  --bs-navbar-hover-color: #cce0ff;    /* Hover text color */
+  --bs-navbar-brand-color: #ffffff;    /* Site title color */
 }
 
-/* Navbar links — white text */
+/* Force navbar background to your chosen color */
+header.navbar,
+.navbar,
+.navbar.bg-light,
+.navbar.bg-white,
+.navbar.bg-primary,
+.navbar.bg-body-tertiary {
+  background-color: var(--bs-primary) !important;
+  border-bottom: none !important;
+}
+
+/* Navbar links — white and clean */
 .navbar .nav-link {
   color: #ffffff !important;
   font-weight: 500;
-  padding: .5rem .75rem;
+  padding: 0.5rem 0.75rem;
+  transition: color 0.2s ease;
 }
 
-/* Active tab highlighted subtly */
-.navbar .nav-link.active {
+/* Hover effect: lighter tint */
+.navbar .nav-link:hover {
+  color: var(--bs-navbar-hover-color) !important;
+}
+
+/* Active tab: underline to match Megha's */
+.navbar .nav-link.active,
+.navbar .nav-link[aria-current="page"] {
   text-decoration: underline;
   text-underline-offset: 3px;
+  color: #ffffff !important;
 }
 
-/* Site title on left — white too */
+/* Navbar brand (site title) on left */
 .navbar .navbar-brand {
   color: #ffffff !important;
   font-weight: bold;
+  font-size: 18px;
 }
 
-/* Remove hover boxes; just lighten the link */
-.navbar .nav-link:hover {
-  color: #cce0ff !important; /* subtle hover tint */
+/* Remove borders on mobile toggler */
+.navbar .navbar-toggler {
+  border-color: transparent !important;
 }
 
+/* =========================
+   2. TYPOGRAPHY & LAYOUT
+   ========================= */
 
-
-
-/* ===== Colors & base text ===== */
-$primary: #0b5ed7;
-$body-bg: #ffffff;
-$body-color: #111;
-
+/* Body text: clean, readable, academic */
 body {
-  line-height: 1.7;
+  font-family: "Helvetica Neue", Arial, sans-serif;
   font-size: 17px;
+  line-height: 1.7;
+  color: #111;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
 }
 
-/* System font stack for a clean academic feel */
-:root {
-  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
-}
-body, .navbar, .navbar a, .nav-link { font-family: var(--font-sans); }
-
-/* ===== Navbar: slim, quiet, right-aligned ===== */
-.navbar {
-  border-bottom: 1px solid #eee;
-}
-.navbar .navbar-brand,
-.navbar .nav-link {
-  color: #222 !important;
-}
-.navbar .nav-link {
-  padding: .5rem .75rem;
-  font-weight: 500;
-}
-.navbar .nav-link.active {
-  text-decoration: underline;
-  text-underline-offset: 3px;
-}
-
-/* Headings & spacing */
+/* Headings: slightly bold but minimal */
 h1, h2, h3 {
   font-weight: 700;
   letter-spacing: 0.1px;
   margin-top: 1.2em;
-  margin-bottom: .4em;
-  color: #111;
-}
-p { margin: 0 0 1rem 0; }
-
-/* Footer minimal */
-.footer, .page-footer {
-  border-top: 1px solid #eee;
-  color: #666;
-  font-size: 14px;
-  padding-top: .75rem;
-}
-body {
-  font-family: "Helvetica Neue", Arial, sans-serif;
-  font-size: 17px;
-  line-height: 1.6;
+  margin-bottom: 0.4em;
   color: #111;
 }
 
-/* Keep content centered like hers */
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+/* Paragraph spacing */
+p {
+  margin: 0 0 1rem 0;
+}
+
+/* Lists: subtle spacing */
+ul, ol {
+  padding-left: 1.25rem;
+}
+li {
+  margin-bottom: 0.35rem;
+}
+
+/* Links: subtle hover underline */
+a {
+  color: var(--bs-primary);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   3. PAGE WIDTH & CONTENT
+   ========================= */
+
+/* Keep content narrow like Megha’s site */
 .quarto-content {
   max-width: 820px;
   margin: 0 auto;
+}
+
+/* Images: rounded option for profile pics */
+img.rounded {
+  border-radius: 12px;
+}
+
+/* =========================
+   4. FOOTER STYLE
+   ========================= */
+
+.page-footer, footer.footer {
+  border-top: 1px solid #eee;
+  color: #666;
+  font-size: 14px;
+  text-align: center;
+  padding: 0.75rem 0;
+}
+
+/* Remove default link styling in footer */
+.page-footer a {
+  color: inherit;
+  text-decoration: none;
+}
+.page-footer a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   5. CODE BLOCKS (OPTIONAL)
+   ========================= */
+
+pre code {
+  font-size: 90%;
 }
