@@ -1,6 +1,9 @@
 ---
-
+title: "Home"            # keeps metadata
 page-layout: article
+format:
+  html:
+    title-block: false   # hides the big page title on the page
 ---
 
 Welcome! I am a PhD candidate in Economics
