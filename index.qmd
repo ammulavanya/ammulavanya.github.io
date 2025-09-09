@@ -1,6 +1,6 @@
 ---
-title: "Home"
-title-block: false       # hides the big "Home" heading on the page
+title: ""                # no visible title
+pagetitle: "Home"        # sets the browser tab title only
 page-layout: article
 ---
 
