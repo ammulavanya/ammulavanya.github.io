@@ -5,6 +5,9 @@ website:
   title: "Ammu Lavanya"
   site-url: https://ammulavanya.github.io
   navbar:
+    background: white
+    pinned: true
+    collapse: true
     left:
       - href: index.qmd
         text: Home
@@ -14,9 +17,17 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
+  page-footer:
+    left: "© Your Name"
+    right: ""
 
 format:
   html:
-    theme: cosmo
+    theme: cosmo     # light Bootstrap base; we override most styles below
     css: styles.scss
     toc: false
+    smooth-scroll: true
+    grid:
+      body-width: 820px   # nice, readable column width (like Megha’s)
+      margin-width: 0
+      gutter-width: 24px
