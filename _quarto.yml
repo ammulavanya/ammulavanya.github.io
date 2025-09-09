@@ -6,7 +6,6 @@ website:
   site-url: https://ammulavanya.github.io
 
   navbar:
-    background: white
     pinned: true
     collapse: true
     left: []        # keep empty so everything stays on the right
