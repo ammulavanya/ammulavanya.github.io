@@ -1,25 +1,14 @@
 ---
 title: "Home"
+page-layout: article
 ---
 
 # Ammu Lavanya
 
-_PhD Candidate, International & Development Economics_
 
-Welcome!  
-I am a PhD candidate in Economics at The George Washington University.
 
----
 
-## Quick Links
 
-- [📄 Download my CV](CV.pdf)
-- [📚 Research](research.html)
-- [🎓 Teaching](teaching.html)
-- [✉️ Email me](mailto:ammulavanya@gwu.edu)
-
----
-
-> You can add a photo later by uploading it and adding this:
-> 
-> `![](myphoto.jpg){width=180px, .rounded}`
+<!-- Optional headshot later:
+![](myphoto.jpg){width=160px .rounded}
+-->
