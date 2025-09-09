@@ -30,6 +30,7 @@ format:
     toc: false
     smooth-scroll: true
     grid:
-      body-width: 820px      # narrow, readable column like Megha's
-      margin-width: 0
-      gutter-width: 24px
+      body-width: "820px"
+      margin-width: "0px"     # <-- was 0; must be a string with units
+      gutter-width: "24px"
+
