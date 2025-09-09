@@ -1,20 +1,20 @@
-/* ====== Base Colors & Typography ====== */
-$primary: #0b5ed7;  /* link accents */
+/* ===== Colors & base text ===== */
+$primary: #0b5ed7;
 $body-bg: #ffffff;
-$body-color: #111;  /* darker body text for print-like feel */
+$body-color: #111;
 
 body {
   line-height: 1.7;
   font-size: 17px;
 }
 
-/* System font stack for a clean academic look */
+/* System font stack for a clean academic feel */
 :root {
   --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
 }
 body, .navbar, .navbar a, .nav-link { font-family: var(--font-sans); }
 
-/* ====== Navbar: thin, quiet, left-aligned ====== */
+/* ===== Navbar: slim, quiet, right-aligned ===== */
 .navbar {
   border-bottom: 1px solid #eee;
 }
@@ -31,7 +31,7 @@ body, .navbar, .navbar a, .nav-link { font-family: var(--font-sans); }
   text-underline-offset: 3px;
 }
 
-/* ====== Headings & spacing ====== */
+/* Headings & spacing */
 h1, h2, h3 {
   font-weight: 700;
   letter-spacing: 0.1px;
@@ -39,32 +39,7 @@ h1, h2, h3 {
   margin-bottom: .4em;
   color: #111;
 }
-h1 {
-  font-size: 2rem;
-  text-align: left;     /* keep left like Megha’s; change to center if you prefer */
-  margin-top: 1.4rem;
-}
-
-/* Paragraph rhythm */
 p { margin: 0 0 1rem 0; }
-
-/* Links: subtle hover */
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
-
-/* Lists a bit tighter */
-ul, ol { padding-left: 1.25rem; }
-li { margin-bottom: .35rem; }
-
-/* Blockquotes (optional) */
-blockquote {
-  border-left: 3px solid #eee;
-  padding-left: .9rem;
-  color: #444;
-}
-
-/* Images: optional rounded helper */
-img.rounded { border-radius: 12px; }
 
 /* Footer minimal */
 .footer, .page-footer {
@@ -73,6 +48,3 @@ img.rounded { border-radius: 12px; }
   font-size: 14px;
   padding-top: .75rem;
 }
-
-/* Code blocks (if any) */
-pre code { font-size: 90%; }
