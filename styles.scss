@@ -1,3 +1,35 @@
+.navbar {
+  background-color: #003366 !important;   /* deep blue */
+  border-bottom: none;                    /* remove bottom border */
+}
+
+/* Navbar links — white text */
+.navbar .nav-link {
+  color: #ffffff !important;
+  font-weight: 500;
+  padding: .5rem .75rem;
+}
+
+/* Active tab highlighted subtly */
+.navbar .nav-link.active {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Site title on left — white too */
+.navbar .navbar-brand {
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+/* Remove hover boxes; just lighten the link */
+.navbar .nav-link:hover {
+  color: #cce0ff !important; /* subtle hover tint */
+}
+
+
+
+
 /* ===== Colors & base text ===== */
 $primary: #0b5ed7;
 $body-bg: #ffffff;
