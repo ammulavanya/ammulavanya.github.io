@@ -2,16 +2,17 @@ project:
   type: website
 
 website:
-  title: "Ammu Lavanya"
+  title: "Your Name"
   site-url: https://ammulavanya.github.io
 
-  # Navbar: put tabs on the RIGHT (only CV, Research, Teaching)
   navbar:
     background: white
     pinned: true
     collapse: true
-    left: []          # keep empty so nothing appears on the left
+    left: []        # keep empty so everything stays on the right
     right:
+      - href: index.qmd
+        text: Home
       - href: cv.qmd
         text: CV
       - href: research.qmd
@@ -31,6 +32,5 @@ format:
     smooth-scroll: true
     grid:
       body-width: "820px"
-      margin-width: "0px"     # <-- was 0; must be a string with units
+      margin-width: "0px"
       gutter-width: "24px"
-
