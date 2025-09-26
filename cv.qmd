@@ -1,9 +1,3 @@
----
-title: "Curriculum Vitae"
----
 
-# Curriculum Vitae
+You can access my **[CV](files/CV_Lavanya.pdf)** here
 
-Download my **[CV](files/CV_Lavanya.pdf)** here
-
----
