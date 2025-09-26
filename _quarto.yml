@@ -20,7 +20,7 @@ website:
         text: Teaching
 
   page-footer:
-    left: "© Your Name"
+    left: "Published with Quarto"
     right: ""
     
 format:
