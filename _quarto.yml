@@ -20,7 +20,7 @@ website:
         text: Teaching
 
   page-footer:
-    left: "Published with Quarto"
+    left: "© Ammu Lavanya"
     right: ""
     
 format:
