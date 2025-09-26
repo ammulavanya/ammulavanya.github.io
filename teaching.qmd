@@ -1,5 +1,17 @@
 ---
 title: "Teaching"
+page-layout: article
 ---
 
-# Teaching
+## The George Washington University
+
+### Instructor
+- **Principles of Microeconomics** (Undergraduate), Summer 2025  
+- **Principles of Macroeconomics** (Undergraduate), Summer 2025  
+
+### Teaching Assistant
+- **Principles of Macroeconomics** (Undergraduate), Spring 2022, Fall 2022, Fall 2024  
+- **Principles of Microeconomics** (Undergraduate), Fall 2021, Fall 2023  
+
+
+
