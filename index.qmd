@@ -3,6 +3,7 @@ title: ""                # no visible title
 pagetitle: "Home"        # sets the browser tab title only
 page-layout: article
 ---
+<img src="files/photo.jpg" width="180px" align="left" style="margin-right:20px; border-radius:50%;">
 
 Welcome! 
 
