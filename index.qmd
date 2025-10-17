@@ -1,27 +1,18 @@
 ---
-title: "Home"
+title: " "
 title-block: false
 page-layout: article
 ---
 
-<div style="display: flex; align-items: center; gap: 24px;">
-
-  <img src="files/photo.jpg" alt="Lavanya photo"
-       style="width:180px; border-radius:50%; flex-shrink:0;">
-
-  <div>
-    <p>Welcome!  
-
+Welcome!  
 
 I am a PhD candidate in Economics at The George Washington University. 
 My research interests lie in the field of International Finance, Monetary Economics, Empirical Banking and Financial History.
 
 **I am on the 2025-26 job market.**
 
-<p> In 2025, I worked as a Research Officer at the International Monetary Fund. I also participated in the Fund Internship Program in the summer of 2024.
+In 2025, I worked as a Research Officer at the International Monetary Fund. I also participated in the Fund Internship Program in the summer of 2024.
 Before graduate school, I worked at the Reserve Bank of India. 
 
-<p> I received an M.A. in Applied Economics from Jawaharlal Nehru University and a B.A. (Honours) in Economics from the University of Delhi.
-  </div>
+I received an M.A. in Applied Economics from Jawaharlal Nehru University and a B.A. (Honours) in Economics from the University of Delhi.
 
-</div>
