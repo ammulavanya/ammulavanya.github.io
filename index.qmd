@@ -2,20 +2,18 @@
 title: " "
 title-block: false
 page-layout: article
----
-
 format:
   html:
     grid:
-      body-width: "1000px"   # ← more words per line, this page only
+      body-width: "1000px"
 ---
 
-::: {.columns style="gap: 60px; margin-left: -20px; align-items: flex-start;"}
-::: {.column width="26%"}
-![](files/photo.jpg){width=100%}
+::: {.columns style="gap: 80px; align-items: flex-start;"}
+::: {.column width="24%"}
+![](files/lavanya.jpg){width=100%}
 :::
 
-::: {.column width="74%" style="text-align: justify;"}
+::: {.column width="76%" style="text-align: justify;"}
 
 **Welcome!**
 
