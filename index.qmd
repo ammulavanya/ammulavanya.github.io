@@ -4,13 +4,12 @@ title-block: false
 page-layout: article
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 60px;">
 
-::: {.columns style="gap: 24px; align-items: center;"}
-::: {.column width="26%"}
-![](files/photo.jpg){width=100%}
-:::
+  <img src="files/lavanya.jpg" alt="Lavanya photo"
+       style="width:180px; height:auto; flex-shrink:0;">
 
-::: {.column width="74%"}
+  <div>
 
 
 Welcome!  
