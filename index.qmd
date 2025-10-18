@@ -4,6 +4,11 @@ title-block: false
 page-layout: article
 ---
 
+::: {.columns}
+::: {.column width="26%"}
+![](files/photo.jpg){.rounded width=100%}
+:::
+
 Welcome!  
 
 I am a PhD candidate in Economics at The George Washington University. 
