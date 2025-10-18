@@ -6,7 +6,7 @@ page-layout: article
 
 ::: {.columns}
 ::: {.column width="26%"}
-<img src="files/lavanya.jpg" alt="Lavanya photo"
+<img src="files/photo.jpg" alt="Lavanya photo"
      style="width:100%; border-radius:50% / 35%; object-fit:cover;">
 :::
 
