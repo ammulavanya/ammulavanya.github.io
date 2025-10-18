@@ -7,7 +7,7 @@ page-layout: article
 
 ::: {.columns style="gap: 24px; align-items: center;"}
 ::: {.column width="26%"}
-![](files/lavanya.jpg){width=100%}
+![](files/photo.jpg){width=100%}
 :::
 
 ::: {.column width="74%"}
