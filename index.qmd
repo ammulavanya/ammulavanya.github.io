@@ -13,7 +13,7 @@ format:
 ![](files/photo.jpg){width=100%}
 :::
 
-::: {.column width="76%" style="text-align: justify; margin-left: 40px;"}
+::: {.column width="76%" style="text-align: justify; margin-left: 100px;"}
 
 Welcome!
 
