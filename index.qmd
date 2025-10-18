@@ -4,39 +4,28 @@ title-block: false
 page-layout: article
 ---
 
-<!-- Home-only layout tweaks -->
-<style>
-  /* widen only this page so lines are longer */
-  .home-wide .page-content, .home-wide .quarto-content { max-width: 1000px !important; }
-  /* photo/text row with big gap, nudged left */
-  .home-hero { display:flex; align-items:flex-start; gap:80px; margin-top:10px; margin-left:-40px; }
-  .home-hero img { width:300px; height:auto; flex-shrink:0; object-fit:cover; }
-  .home-hero .text { flex:1; text-align: justify; }
-  /* shrink gap on very small screens so it stacks nicely */
-  @media (max-width: 700px) {
-    .home-hero { flex-direction: column; gap:16px; margin-left:0; }
-    .home-hero img { width:220px; }
-    .home-wide .page-content, .home-wide .quarto-content { max-width: 100% !important; }
-  }
-</style>
+format:
+  html:
+    grid:
+      body-width: "1000px"   # ← more words per line, this page only
+---
 
-<div class="home-wide">
-  <div class="home-hero">
+::: {.columns style="gap: 60px; margin-left: -20px; align-items: flex-start;"}
+::: {.column width="26%"}
+![](files/photo.jpg){width=100%}
+:::
 
-    <img src="files/photo.jpg" alt="Lavanya photo">
+::: {.column width="74%" style="text-align: justify;"}
 
-    <div class="text">
-      <p>Welcome!</p>
+**Welcome!**
 
-      <p>I am a PhD candidate in Economics at The George Washington University. My research interests lie in the field of International Finance, Monetary Economics, Empirical Banking and Financial History.</p>
+I am a PhD candidate in Economics at The George Washington University. My research interests lie in the field of International Finance, Monetary Economics, Empirical Banking and Financial History.
 
-      <p><strong> I am on the 2025–26 job market</strong>.</p>
+I am on the 2025-26 job market.
 
-      <p>In 2025, I worked as a Research Officer at the International Monetary Fund. I also participated in the Fund Internship Program in the summer of 2024. Before graduate school, I worked at the Reserve Bank of India.</p>
+In 2025, I worked as a Research Officer at the International Monetary Fund. I also participated in the Fund Internship Program in the summer of 2024. Before graduate school, I worked at the Reserve Bank of India.
 
-      <p>I received an M.A. in Applied Economics from Jawaharlal Nehru University and a B.A. (Honours) in Economics from the University of Delhi.</p>
-    </div>
+I received an M.A. in Applied Economics from Jawaharlal Nehru University and a B.A. (Honours) in Economics from the University of Delhi.
 
-  </div>
-</div>
-
+:::
+:::
