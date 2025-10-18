@@ -8,14 +8,14 @@ format:
       body-width: "1500px"
 ---
 
-::: {.columns style="gap: 200px; align-items: flex-start;"}
+::: {.columns style="gap: 300px; align-items: flex-start;"}
 ::: {.column width="24%"}
 ![](files/photo.jpg){width=100%}
 :::
 
-::: {.column width="76%" style="text-align: justify;"}
+::: {.column width="76%" style="text-align: justify; margin-left: 40px;"}
 
-**Welcome!**
+Welcome!
 
 I am a PhD candidate in Economics at The George Washington University. My research interests lie in the field of International Finance, Monetary Economics, Empirical Banking and Financial History.
 
