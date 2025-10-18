@@ -4,13 +4,11 @@ title-block: false
 page-layout: article
 ---
 
-::: {.columns}
+::: {.columns style="gap: 24px; align-items: center;"}
 ::: {.column width="26%"}
-<img src="files/photo.jpg" alt="Lavanya photo"
-     style="width:100%; border-radius:50% / 35%; object-fit:cover;">
+![](files/lavanya.jpg){width=100% .rounded}
 :::
 
-::: {.column width="74%"}
 
 Welcome!  
 
