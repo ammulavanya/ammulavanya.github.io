@@ -4,23 +4,28 @@ title-block: false
 page-layout: article
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 120px;">
+<div style="display: flex; align-items: flex-start; gap: 70px; margin-top: 10px;">
 
   <img src="files/photo.jpg" alt="Lavanya photo"
-       style="width:180px; height:auto; flex-shrink:0;">
+       style="width:280px; height:auto; flex-shrink:0; object-fit:cover;">
 
-  <div>
+  <div style="flex:1;">
 
+  <p><strong>Welcome!</strong></p>
 
-Welcome!  
+  <p>I am a PhD candidate in Economics at <strong>The George Washington University</strong>. 
+  My research interests lie in the field of <strong>International Finance</strong>, <strong>Monetary Economics</strong>, 
+  <strong>Empirical Banking</strong> and <strong>Financial History</strong>.</p>
 
-I am a PhD candidate in Economics at The George Washington University. 
-My research interests lie in the field of International Finance, Monetary Economics, Empirical Banking and Financial History.
+  <p>I am on the <strong>2025–26 job market</strong>.</p>
 
-**I am on the 2025-26 job market.**
+  <p>In 2025, I worked as a Research Officer at the International Monetary Fund. 
+  I also participated in the Fund Internship Program in the summer of 2024. 
+  Before graduate school, I worked at the Reserve Bank of India.</p>
 
-In 2025, I worked as a Research Officer at the International Monetary Fund. I also participated in the Fund Internship Program in the summer of 2024.
-Before graduate school, I worked at the Reserve Bank of India. 
+  <p>I received an M.A. in Applied Economics from Jawaharlal Nehru University and a 
+  B.A. (Honours) in Economics from the University of Delhi.</p>
 
-I received an M.A. in Applied Economics from Jawaharlal Nehru University and a B.A. (Honours) in Economics from the University of Delhi.
+  </div>
+</div>
 
