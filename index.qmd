@@ -6,8 +6,11 @@ page-layout: article
 
 ::: {.columns}
 ::: {.column width="26%"}
-![](files/photo.jpg){.rounded width=100%}
+<img src="files/lavanya.jpg" alt="Lavanya photo"
+     style="width:100%; border-radius:50% / 35%; object-fit:cover;">
 :::
+
+::: {.column width="74%"}
 
 Welcome!  
 
