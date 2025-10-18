@@ -10,7 +10,7 @@ format:
 
 ::: {.columns style="gap: 80px; align-items: flex-start;"}
 ::: {.column width="24%"}
-![](files/lavanya.jpg){width=100%}
+![](files/photo.jpg){width=100%}
 :::
 
 ::: {.column width="76%" style="text-align: justify;"}
