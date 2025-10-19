@@ -7,7 +7,7 @@ format:
     grid:
       body-width: "1500px"
 ---
-
+<div style="height: 120px;"></div>
 ::: {.columns style="gap: 300px; align-items: flex-start; margin-top: 2500px;"}
 ::: {.column width="24%"}
 ![](files/photo.jpg){width=100%}
