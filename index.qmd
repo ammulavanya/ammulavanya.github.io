@@ -8,12 +8,12 @@ format:
       body-width: "1500px"
 ---
 <div style="height: 120px;"></div>
-::: {.columns style="gap: 300px; align-items: flex-start; margin-top: 2500px;"}
+::: {.columns style="gap: 300px; align-items: flex-start;"}
 ::: {.column width="24%"}
 ![](files/photo.jpg){width=100%}
 :::
 
-::: {.column width="76%" style="text-align: justify; margin-left: 100px;"}
+::: {.column width="76%" style="text-align: justify; margin-left: 120px;"}
 
 Welcome!
 
