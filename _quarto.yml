@@ -33,4 +33,6 @@ format:
       body-width: "820px"
       margin-width: "0px"
       gutter-width: "24px"
-
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="k9VKEm2ukKgPvSGrvUOBCe4Yw_6_-czv341oPcGOG2g" />
