@@ -47,9 +47,9 @@ blockquote {
 
 > "Discussion were extremely helpful (going over lecture material, having discussion notes and handouts) - Lavanya explained all concepts thoroughly - always available to
 ask for help (emails, office hours, discussion sections) - very kind and understanding - extremely patient with students - best GWU TA"  
->  
+ 
 > "I really enjoyed having Ammu Lavanya as my TA. Discussion section really enhanced my knowledge of the course concepts."  
->  
+ 
 > "TA Lavanya knows her stuff, can explain the complexities of Macro very well, and above all is very approachable as far as TA's go. Also she has a stupid fast turn around
 on midterm grading which is very nice especially given that the second midterm happens with two weeks before the final. Also the notes and practice problems from
 discussion are very useful for checking your understanding of the class material"
