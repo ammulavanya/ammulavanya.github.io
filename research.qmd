@@ -1,6 +1,6 @@
 
 ---
-title: "Research"
+title: ""
 page-layout: article
 format:
   html:
