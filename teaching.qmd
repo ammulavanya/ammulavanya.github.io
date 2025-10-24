@@ -1,6 +1,35 @@
 ---
 page-layout: article
+format:
+  html:
+    grid:
+      body-width: "820px"
 ---
+
+<style>
+/* smaller section headings */
+h2, h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 1.2rem;
+  margin-bottom: 0.6rem;
+}
+
+/* blue color for university heading */
+h2 {
+  color: #0a2540;
+}
+
+/* student quote styling */
+blockquote {
+  font-style: italic;
+  color: #333;
+  border-left: 4px solid #0a2540;
+  padding-left: 1em;
+  margin: 1em 0;
+  font-size: 0.95rem;
+}
+</style>
 
 ## The George Washington University
 
@@ -12,10 +41,28 @@ page-layout: article
 - **Principles of Macroeconomics** (Undergraduate), Spring 2022, 2023, 2024; Fall 2022, 2024  
 - **Principles of Microeconomics** (Undergraduate), Fall 2021, 2023  
 
+---
+
+### What Students Say
+
+> "Discussion were extremely helpful (going over lecture material, having discussion notes and handouts) - Lavanya explained all concepts thoroughly - always available to
+ask for help (emails, office hours, discussion sections) - very kind and understanding - extremely patient with students - best GWU TA"  
+>  
+> "I really enjoyed having Ammu Lavanya as my TA. Discussion section really enhanced my knowledge of the course concepts."  
+>  
+> "TA Lavanya knows her stuff, can explain the complexities of Macro very well, and above all is very approachable as far as TA's go. Also she has a stupid fast turn around
+on midterm grading which is very nice especially given that the second midterm happens with two weeks before the final. Also the notes and practice problems from
+discussion are very useful for checking your understanding of the class material"
+
+> "I believe that the discussion sections were some of the most informative times of the class because they helped condense large amounts of content. I also believe it was
+taught in a very fair style where those who engaged with the material would come out better."
+
+---
+
 ### Select Teaching Evaluations
-- [Spring 2024 (PDF)](files/Distribution-Lavanya-Ammu-ECON-1012-44-Undergraduate-DiscussionGroup-2024-Spring.pdf)
-- [Spring 2024 (PDF)](files/Distribution-Lavanya-Ammu-ECON-1012-45-Undergraduate-DiscussionGroup-2024-Spring.pdf)
-- [Spring 2022 (PDF)](files/Distribution-Lavanya-Ammu-ECON-1012-31-Undergraduate-DiscussionGroup-2022-Spring.pdf)
+- [Spring 2024 (PDF)](files/Distribution-Lavanya-Ammu-ECON-1012-44-Undergraduate-DiscussionGroup-2024-Spring.pdf)  
+- [Spring 2024 (PDF)](files/Distribution-Lavanya-Ammu-ECON-1012-45-Undergraduate-DiscussionGroup-2024-Spring.pdf)  
+- [Spring 2022 (PDF)](files/Distribution-Lavanya-Ammu-ECON-1012-31-Undergraduate-DiscussionGroup-2022-Spring.pdf)  
 - [Spring 2022 (PDF)](files/Distribution-Lavanya-Ammu-ECON-1012-32-Undergraduate-DiscussionGroup-2022-Spring.pdf)
 
 
