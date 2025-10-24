@@ -104,8 +104,22 @@ img.rounded { border-radius: 12px; }
 
 /* === Custom heading colors for Research page === */
 h3 {
-  color: #0a2540 !important;   // same blue as navbar
+  color: #0a2540;       /* same navy as navbar */
   font-weight: 700;
-  text-transform: uppercase;
+  text-transform: none; /* keep normal capitalization */
+  font-size: 1.3rem;    /* moderate size */
+  margin-top: 2rem;
+}
+/* Larger font for paper titles (the bold ones) */
+strong {
+  font-size: 1.1rem;
+  color: #000000;        /* black */
+  font-weight: 600;
+}
+
+/* Smaller font for 'Presentations:' lines */
+p:has(> em), p:has(> strong:contains("Presentations")) {
+  font-size: 0.9rem;
+  color: #444444;
 }
 
