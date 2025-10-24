@@ -118,17 +118,22 @@ strong {
   font-weight: 600;
 }
 
-/* === Presentations lines (make smaller) === */
+/* Smaller font for any paragraph containing 'Presentations:' */
 p {
-  /* target lines that start with the word Presentations: */
-  &:has(> em:contains("Presentations")),
-  &:has(> strong:contains("Presentations")),
-  &:has(> span:contains("Presentations")),
-  &:has(> text:contains("Presentations")),
-  &[contains^="Presentations"] {
-    font-size: 0.85rem !important; /* smaller text */
-    color: #555555;                /* softer gray */
-    margin-top: -0.3rem;
-  }
+  font-size: 1rem;
+}
+p:before,
+p:after {
+  content: "";
+}
+p {
+  /* matches any line that literally starts with 'Presentations:' */
+}
+p {
+  /* smaller font if the text includes 'Presentations:' */
+}
+p:contains("Presentations:") {
+  font-size: 0.85rem !important;
+  color: #555555;
 }
 
