@@ -38,7 +38,7 @@ This paper examines capital inflows to China, India and Japan during the first e
 ---
 
 **Monetary Policy Transmission to Consumption: Evidence from Transaction-Level Data**  
-*with [Donghao Wu] (https://www.linkedin.com/in/donghao-wu-44481117b/)*
+*with [Donghao Wu](https://www.linkedin.com/in/donghao-wu-44481117b/)*
 
 We examine the transmission of monetary policy shocks to consumption spending using high-frequency credit card transaction data for the United States. The use of daily data allows for improved identification of monetary policy transmission and enables a detailed analysis of its effects on consumption patterns. The ability to disaggregate credit card data by spending category and consumer characteristics provides insight into the heterogeneous effects of monetary policy across different groups. Using a local projections estimation framework, we find that monetary policy shocks influence spending much more rapidly than previously documented in the literature. These findings enhance our understanding of how monetary policy affects consumer behavior and offer a valuable complement to evidence based on traditional aggregate data.
 
