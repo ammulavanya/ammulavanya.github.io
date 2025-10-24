@@ -102,24 +102,27 @@ img.rounded { border-radius: 12px; }
 .page-footer a { color: inherit; text-decoration: none; }
 .page-footer a:hover { text-decoration: underline; }
 
-/* === Custom heading colors for Research page === */
+/* === Section Headings (Job Market Paper, etc.) === */
 h3 {
   color: #0a2540;       /* same navy as navbar */
   font-weight: 700;
-  text-transform: none; /* keep normal capitalization */
-  font-size: 1.3rem;    /* moderate size */
+  text-transform: none; /* normal capitalization */
+  font-size: 1.5rem;    /* keep large size */
   margin-top: 2rem;
 }
-/* Larger font for paper titles (the bold ones) */
+
+/* === Paper Titles (bold ones) === */
 strong {
-  font-size: 1.1rem;
-  color: #000000;        /* black */
+  font-size: 1rem;      /* back to normal size */
+  color: #000000;       /* black */
   font-weight: 600;
 }
 
-/* Smaller font for 'Presentations:' lines */
-p:has(> em), p:has(> strong:contains("Presentations")) {
-  font-size: 0.9rem;
-  color: #444444;
+/* === Presentations lines === */
+p:has(> em), 
+p:has(> strong:contains("Presentations")) {
+  font-size: 0.85rem !important;  /* smaller */
+  color: #555555;                 /* softer gray */
+  margin-top: -0.3rem;
 }
 
