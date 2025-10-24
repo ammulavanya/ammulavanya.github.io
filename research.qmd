@@ -10,12 +10,34 @@ Draft forthcoming!
 
 ##### International Borrowing Cycles and Economic Growth: Evidence from a New Historical Database  
 (*with Graciela Kaminsky and Zheyu Yang*)
+This paper presents a comprehensive database of capital inflows to Asia during the first era of financial globalization (1830–1931), covering all known bond and equity issues for China, India, and Japan. While prior studies have focused on a handful of prominent cases, we systematically compile detailed data on securities issued primarily in London and other major financial centers, including Paris, Frankfurt, Berlin, Hamburg, and New York. We situate these flows within the broader arc of nineteenth-century globalization: the restoration of European peace after 1815 and Britain’s return to the gold standard spurred unprecedented financial integration, with London emerging as the nerve center of global capital. Initially excluded from this network, Asian economies gradually entered international capital markets through distinct channels. India attracted foreign investment through British guarantees on railway projects; China became engaged under unequal treaties following the Opium Wars; and Japan, after the Meiji Restoration, voluntarily tapped international markets to fund railways and industrial growth. The dataset also includes annual series on trade, output, and terms of trade, enabling us to link capital inflows to macroeconomic performance. By tracing the links between Asian borrowers and global financial centers, and analyzing interest rates and business cycles in London and Paris, we uncover new patterns in the geography of finance and offer fresh insights into how global capital shaped Asia’s economic transformation during the first era of financial globalization.
+
+Presentations: III Congress Globalization and Growth in the History of East and Southeast Asia (2025, Scheduled)
 
 ##### Monetary Policy Transmission to Consumption: Evidence from Transaction-Level Data  
 (*with Donghao Wu*)
+We examine the transmission of monetary policy shocks to consumption spending using high-frequency credit card transaction data for the United States. The use of daily transaction data allows for improved identification of monetary policy transmission and enables a detailed analysis of its effects on consumption patterns. The ability to disaggregate credit card data by spending category and consumer characteristics provides insight into the heterogeneous effects of monetary policy across different groups. Using a local projections estimation framework, we find that monetary policy shocks influence spending much more rapidly than previously documented in the literature. These findings enhance our understanding of how monetary policy affects consumer behavior and offer a valuable complement to evidence based on traditional aggregate data.
+
+Presentations: GWU Macro Lunch (2025, Scheduled)
 
 ##### The Design and Evolution of IMF Supported Programs: 2000–2019  
 (*with Atish R. Ghosh*)
+This paper examines the evolution of IMF-supported programs over the past two decades across advanced economies, emerging markets, and low-income countries. It analyzes the design and outcomes of these programs, focusing on the balance between financing and adjustment, the nature of conditionality, and the extent to which stated economic objectives were achieved. The paper reviews the external environment facing emerging markets and low-income countries and its role, together with country-specific shocks and policies, in shaping the demand for Fund resources. It provides a comparative assessment of macroeconomic performance under GRA and PRGT programs, evaluates the alignment of current account targets with debt sustainability considerations, and examines the relationship between adjustment and real economic outcomes. The analysis also considers program goals related to inflation, fiscal balance, and public debt, and documents the evolution and focus of structural conditionality over time.
+
+Presentations: SPR Internal Seminar, IMF (2024)
+Forthcoming as a Chapter in The IMF History: Overview II Volume, published by the International Monetary Fund
 
 ##### The History of the Future (of Emerging Markets)  
 (*with Atish R. Ghosh*)
+The study investigates the factors that drive revisions to World Economic Outlook (WEO) projections of real GDP levels in emerging markets over time. It examines the role of key global and domestic variables such as advanced economy growth rates, commodity prices, and financial market volatility (VIX) in shaping these revisions. The analysis also explores whether IMF country teams tend to overreact or underreact to changes in projections of these explanatory variables and assesses the extent to which actual realizations of these variables influence subsequent GDP outcomes. Understanding the determinants of medium-term GDP projections is essential for evaluating debt sustainability and macroeconomic resilience. The study focuses on a sample of about 50 major emerging markets, with potential extensions to include low-income countries in future analysis.
+
+---
+
+### Pre-PhD Publications
+
+##### The Openness-Inflation Puzzle: An Asymmetric Approach (*with Irfan Ahmad Shah*), Macroeconomics and Finance in Emerging Market Economies, 15(2): 125–139, 2022.
+
+##### Does Government Deficit Crowd Out Private Investment? An Empirical Analysis for National and Sub-National Governments, (*with Pushpa Trivedi, Sangita Misra and Kaushiki Singh*), IUP Journal of Applied Economics, 18(3): 7–36, 2019.
+
+
+
