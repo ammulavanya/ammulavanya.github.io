@@ -118,22 +118,4 @@ strong {
   font-weight: 600;
 }
 
-/* Smaller font for any paragraph containing 'Presentations:' */
-p {
-  font-size: 1rem;
-}
-p:before,
-p:after {
-  content: "";
-}
-p {
-  /* matches any line that literally starts with 'Presentations:' */
-}
-p {
-  /* smaller font if the text includes 'Presentations:' */
-}
-p:contains("Presentations:") {
-  font-size: 0.85rem !important;
-  color: #555555;
-}
 
