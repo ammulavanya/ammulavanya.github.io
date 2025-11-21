@@ -118,4 +118,17 @@ strong {
   font-weight: 600;
 }
 
+.badge {
+  display: inline-block;
+  background-color: #0a2540;   /* navy */
+  color: white;
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  text-decoration: none;
+  margin-top: 4px;
+}
+.badge:hover {
+  background-color: #163a63;   /* lighter navy */
+}
 
