@@ -17,7 +17,7 @@ p { text-align: justify; }
 **International Financial Flows, Credit Allocation and Productivity**  
 <span style="font-size:0.9rem; color:#0a2540;">
   <a href="files/JMP_Latest_Lavanya.pdf" style="color:#0a2540; text-decoration:none;">
-    Draft (PDF)
+    LINK (PDF)
   </a>
 </span>
 
