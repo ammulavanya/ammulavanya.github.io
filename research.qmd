@@ -14,13 +14,11 @@ p { text-align: justify; }
 
 ### Job Market Paper
 
-<a href="files/JMP_Latest_Lavanya.pdf" 
-   style="color:#0a2540; text-decoration:none; font-weight:700;">
-  <strong style="color:#0a2540; font-weight:700;">
-    International Financial Flows, Credit Allocation and Productivity
-  </strong>
+<strong style="color:#0a2540; font-weight:700;">
+  International Financial Flows, Credit Allocation and Productivity
+</strong>
+
 <!-- Temporarily removed paper link
-</a>
 <br>
 <span style="font-size:0.9rem; color:#0a2540;">
   <a href="files/JMP_Latest_Lavanya.pdf" style="color:#0a2540; text-decoration:none;">
