@@ -72,15 +72,15 @@ This paper studies the transmission of monetary policy to household consumption 
 
 ### Selected Policy Contributions
 
-#### At the International Monetary Fund
+#### International Monetary Fund {style="color:#0a2540;"}
 
 **The IMF and the Global Financial Crisis**  
-<span style="font-size:0.9rem;"><em>Forthcoming, IMF History Project (case study).</em></span>
+<span style="font-size:0.9rem;"><em>Forthcoming, IMF History (Case Study) </em></span>
 
 **The Design and Evolution of IMF-Supported Programs: 2000–2019**  
-<span style="font-size:0.9rem;"><em>Forthcoming, IMF History: Overview II (chapter).</em></span>
+<span style="font-size:0.9rem;"><em>Forthcoming, IMF History: Overview II (Chapter).</em></span>
 
-#### At the Reserve Bank of India
+#### Reserve Bank of India {style="color:#0a2540;"}
 
 **State Finances: A Study of Budgets of 2019–20**
 
