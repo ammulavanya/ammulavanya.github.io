@@ -67,7 +67,6 @@ This paper studies the transmission of monetary policy to household consumption 
 ::: {.small}
 *Presentations: GWU Macro Lunch (2025, 2026)*
 :::
-
 ---
 ### Selected Policy Contributions
 
@@ -76,14 +75,14 @@ This paper studies the transmission of monetary policy to household consumption 
 **The IMF and the Global Financial Crisis**
 
 ::: {.small}
-*Forthcoming as a Case Study for the IMF History Project, International Monetary Fund.*
+*Forthcoming as a case study for the IMF History Project, to be published by the International Monetary Fund.*
 :::
 
 **The Design and Evolution of IMF-Supported Programs: 2000–2019**
 
 ::: {.small}
-*Presentations: SPR Internal Seminar, IMF (2024)*  
-*Forthcoming as a Chapter in The IMF History: Overview II volume, International Monetary Fund.*
+*Presentation: SPR Internal Seminar, IMF (2024)*
+*Forthcoming as a chapter in The IMF History: Overview II volume, to be published by the International Monetary Fund.*
 :::
 
 #### At the Reserve Bank of India
@@ -91,6 +90,7 @@ This paper studies the transmission of monetary policy to household consumption 
 **State Finances: A Study of Budgets of 2019–20**
 
 ---
+
 ### Pre-PhD Publications
 
 **The Openness-Inflation Puzzle: An Asymmetric Approach** *with Irfan Ahmad Shah*  
