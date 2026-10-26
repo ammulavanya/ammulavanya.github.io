@@ -71,21 +71,28 @@ This paper studies the transmission of monetary policy to household consumption 
 
 ### Selected Policy Contributions
 
-**At the International Monetary Fund**<br>
+<div style="color:#0a2540; font-size:1.15rem; font-weight:700; margin-top:1.2rem; margin-bottom:0.7rem;">
+At the International Monetary Fund
+</div>
+
 **The IMF and the Global Financial Crisis**
 
-::: {.small}
-*Forthcoming as a Case Study for the IMF History Project, to be published by the International Monetary Fund*
-:::
+<div style="font-size:0.9rem; font-style:italic; margin-top:0.25rem; margin-bottom:1.2rem;">
+Forthcoming as a case study for the IMF History Project, to be published by the International Monetary Fund.
+</div>
 
-**The Design and Evolution of IMF-Supported Programs: 2000-2019**<br>
+**The Design and Evolution of IMF-Supported Programs: 2000–2019**
 
-::: {.small}
-*Forthcoming as a Chapter in The IMF History:Overview II Volume, to be published by the International Monetary Fund*
-:::
+<div style="font-size:0.9rem; font-style:italic; margin-top:0.25rem; margin-bottom:1.2rem;">
+Forthcoming as a chapter in The IMF History: Overview II volume, to be published by the International Monetary Fund.
+</div>
 
-**At the Reserve Bank of India**<br>
+<div style="color:#0a2540; font-size:1.15rem; font-weight:700; margin-top:1.4rem; margin-bottom:0.7rem;">
+At the Reserve Bank of India
+</div>
+
 **State Finances: A Study of Budgets of 2019–20**
+
 ---
 
 ### Pre-PhD Publications
