@@ -27,54 +27,47 @@ p { text-align: justify; }
 </span>
 -->
 
-
-This paper examines how international financial liberalization shapes domestic credit allocation and real economic outcomes using detailed loan-level data matched with firm and bank balance sheet data. Exploiting a 2004 reform that raised foreign shareholding limits in Indian banks, I identify differences in credit allocation patterns across banks with varying exposure to foreign capital inflows. More exposed banks received larger inflows, which relaxed their funding constraints and expanded their overall lending. This increase in bank lending was disproportionately directed towards more productive firms, raising their investment and reducing the overall dispersion of the marginal revenue product of capital (MRPK). Quantifying the aggregate impact and accounting for general equilibrium effects, I find that the reallocation gains from the bank-lending channel of  liberalization led to significant improvements in total factor productivity (TFP).
+This paper examines how financial liberalization shapes domestic credit allocation and real economic outcomes using detailed bank-firm matched data for India. We exploit a 2004 reform that raised foreign shareholding limits in Indian banks and identify differences in credit allocation patterns across banks with varying exposure to foreign capital inflows. More-exposed banks received larger capital inflows, which relaxed their funding constraints and expanded their overall lending. This increase in bank lending was directed towards the more productive firms in the economy, raising their investment and reducing the overall dispersion of marginal revenue product of capital (MRPK) across firms. This improvement in credit allocation was associated with foreign equity inflows rather than foreign debt financing, highlighting the importance of the form of capital inflows. Quantifying the aggregate effects of this reallocation, we find that the liberalization generated significant gains in total factor productivity (TFP).
 
 ::: {.small}
-*Presentations: GWU Macro Lunch (2024, 2025)*<br>
+*Presentations: GWU Macro Lunch (2024, 2025), IMF Research Department Seminar (2026), NEUDC (2026), AEA (2027) *<br>
 *Coverage: [Ideas of India Podcast @ Mercatus Center](https://www.mercatus.org/ideasofindia/ammu-lavanya-how-foreign-capital-changed-indian-bank-lending)*
 :::
 ---
 
 ### Research in Progress
 
-**International Borrowing Cycles and Economic Growth: Insights from a New Historical Database**  
-*with [Graciela Kaminsky](https://www.gracielakaminsky.com/) and [Zheyu Yang](https://www.linkedin.com/in/zhy-yang/)*
+**A History of the Future of Emerging Markets**  
+*with Atish R. Ghosh*
 
-This paper examines capital inflows to China, India and Japan during the first episode of financial globalization (1830-1931). These countries engaged with international capital under distinct institutional arrangements: Britain guaranteed returns on Indian railway investments to attract capital, China was integrated under unequal treaties following the Opium Wars and Japan borrowed voluntarily to fund railways and industrial growth after the Meiji Restoration. We construct a novel database for these countries by systematically compiling data on all known bond and equity issuances issued primarily in London and other major financial centers, including Paris, Frankfurt, Berlin, Hamburg and New York and link them to macroeconomic indicators such as trade, output and terms of trade. The dataset also incorporates information on interest rates and business cycles from leading financial centers. Using this resource, we analyze how global financial conditions and local institutional arrangements shaped borrowing patterns and economic outcomes. The study provides new insights into the determinants and consequences of international capital flows and the integration of Asian economies into global financial markets in the nineteenth and early twentieth century.
+This paper examines whether shocks to emerging market output are best understood as “level” or “growth” shocks, and whether forecasters incorporate such information efficiently. Using successive vintages of IMF World Economic Outlook projections for a panel of major emerging market economies, supplemented by Consensus Forecasts, we identify shocks as forecast revisions and distinguish their effects by sign and source. We find pronounced asymmetries. Positive shocks to the emerging market’s own output or to world trade, terms-of-trade, commodity prices, capital-inflows, or emerging-market trading partners are associated with faster medium-term growth. By contrast, most negative shocks dissipate with little or no impact on growth or even on the medium-term level of output. The one exception is financial crises, especially banking crises, which generate the largest and most persistent output losses by lowering medium-term growth. Forecasters recognize many of these effects but systematically underestimate the effect of favorable shocks and overestimate the impact of (non-crisis) adverse shocks. Since the existing literature suggests that emerging markets’ growth is best modelled as shocks to the trend growth rate—rather than fluctuations around a stable underlying trend—these results provide useful insights into the determinants of emerging markets’ output growth, an issue of particular salience as many seem to languish in the middle-income trap. 
 
 ::: {.small}
-*Presentations: III Congress Globalization and Growth in the History of East and Southeast Asia (2025)*
+*Draft available upon request*  
+:::
+
+---
+
+**Do Open Capital Markets Spur Growth? Evidence from Asian Countries, 1820-1931**  
+*with [Graciela Kaminsky](https://www.gracielakaminsky.com/) and [Zheyu Yang](https://www.linkedin.com/in/zhy-yang/)*
+
+This paper examines capital inflows to China, India, and Japan during the first episode of financial globalization (1830-1931). These countries engaged with international capital under distinct institutional arrangements: Britain guaranteed returns on Indian railway investments to attract capital, China was integrated under unequal treaties following the Opium Wars and Japan borrowed voluntarily to fund railways and industrial growth after the Meiji Restoration. We construct a novel database for these countries by systematically compiling data on all known bond and equity issuances issued primarily in London and other major financial centers, including Paris, Frankfurt, Berlin, Hamburg and New York and link them to macroeconomic indicators such as trade, output and terms of trade. The dataset also incorporates information on interest rates and business cycles from leading financial centers. Using this resource, we analyze how global financial conditions and local institutional arrangements shaped borrowing patterns and economic outcomes. We find that capital inflows and terms-of-trade improvements significantly boost medium-term growth, while UK interest rate hikes depress it. Import demand shows no significant effect, global liquidity impacts remain short-lived, and financial disasters fundamentally reshape growth trajectories. Altogether, these findings underscore the importance of global financial conditions in driving periphery growth during the first era of financial globalization, offering new insights into the historical roots of emerging market vulnerability to external financial forces.
+
+::: {.small}
+*Presentations: III Congress Globalization and Growth in the History of East and Southeast Asia (2025), AEA (2027)*
+*Slides available upon request*
 :::
 ---
 
 **Monetary Policy Transmission to Consumption: Evidence from Transaction-Level Data**  
 *with [Donghao Wu](https://www.linkedin.com/in/donghao-wu-44481117b/)*
 
-We examine the transmission of monetary policy shocks to consumption spending using high-frequency credit card transaction data for the United States. The use of daily data allows for improved identification of monetary policy transmission and enables a detailed analysis of its effects on consumption patterns. The ability to disaggregate credit card data by spending category and consumer characteristics provides insight into the heterogeneous effects of monetary policy across different groups. Using a local projections estimation framework, we find that monetary policy shocks influence spending much more rapidly than previously documented in the literature. These findings enhance our understanding of how monetary policy affects consumer behavior and offer a valuable complement to evidence based on traditional aggregate data.
+This paper studies the transmission of monetary policy to household consumption using high-frequency transaction-level data from the United States. Leveraging daily credit and debit card spending mapped to detailed Personal Consumption Expenditures (PCE) categories, we estimate dynamic consumption responses to monetary policy shocks using a local projections framework. We find that spending responds rapidly, with significant effects emerging within weeks, and that contractionary shocks generate larger and more persistent declines than expansionary shocks. Overall, our results suggest that monetary policy affects consumption more quickly than implied by aggregate data, while highlighting the roles of heterogeneity and measurement in shaping observed transmission dynamics.
 
 ::: {.small}
-*Presentations: GWU Macro Lunch (2025)*
+*Presentations: GWU Macro Lunch (2025, 2026)*
 :::
 
----
-
-**The Design and Evolution of IMF Supported Programs: 2000–2019**  
-*with Atish R. Ghosh*
-
-This paper examines the evolution of IMF-supported programs over the past two decades across advanced economies, emerging markets and low-income countries. It analyzes the design and outcomes of these programs, focusing on the balance between financing and adjustment, the nature of conditionality and the extent to which stated economic objectives were achieved. The paper reviews the external environment facing emerging markets and low-income countries and its role, together with country-specific shocks and policies, in shaping the demand for Fund resources. It provides a comparative assessment of macroeconomic performance under GRA and PRGT programs, evaluates the alignment of current account targets with debt sustainability considerations and examines the relationship between adjustment and real economic outcomes. The analysis also considers program goals related to inflation, fiscal balance and public debt and documents the evolution and focus of structural conditionality over time.
-
-::: {.small}
-*Presentations: SPR Internal Seminar, IMF (2024)*  
-*Forthcoming as a Chapter in The IMF History: Overview II Volume, to be published by the International Monetary Fund*
-:::
-
----
-
-**The History of the Future (of Emerging Markets)**  
-*with Atish R. Ghosh*
-
-The study investigates the factors that drive revisions to World Economic Outlook (WEO) projections of real GDP levels in emerging markets over time. It examines the role of key global and domestic variables such as advanced economy growth rates, commodity prices, and financial market volatility (VIX) in shaping these revisions. The analysis also explores whether IMF country teams tend to overreact or underreact to changes in projections of these explanatory variables and assesses the extent to which actual realizations of these variables influence subsequent GDP outcomes. Understanding the determinants of medium-term GDP projections is essential for evaluating debt sustainability and macroeconomic resilience. The study focuses on a sample of about 50 major emerging markets, with potential extensions to include low-income countries in future analysis.
 
 ---
 
