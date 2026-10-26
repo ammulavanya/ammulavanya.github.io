@@ -71,27 +71,35 @@ This paper studies the transmission of monetary policy to household consumption 
 
 ### Selected Policy Contributions
 
-<div style="color:#0a2540; font-size:1.15rem; font-weight:700; margin-top:1.2rem; margin-bottom:0.7rem;">
+<div style="color:#0a2540; font-size:1.15rem; font-weight:700; margin:0.8rem 0 0.5rem 0;">
 At the International Monetary Fund
 </div>
 
-**The IMF and the Global Financial Crisis**
-
-<div style="font-size:0.9rem; font-style:italic; margin-top:0.25rem; margin-bottom:1.2rem;">
-Forthcoming as a case study for the IMF History Project, to be published by the International Monetary Fund.
+<div style="margin-bottom:0.8rem;">
+  <div style="font-weight:700; color:#000;">
+    The IMF and the Global Financial Crisis
+  </div>
+  <div style="font-size:0.9rem; font-style:italic; margin-top:0.1rem;">
+    Forthcoming, IMF History (Case Study).
+  </div>
 </div>
 
-**The Design and Evolution of IMF-Supported Programs: 2000–2019**
-
-<div style="font-size:0.9rem; font-style:italic; margin-top:0.25rem; margin-bottom:1.2rem;">
-Forthcoming as a chapter in The IMF History: Overview II volume, to be published by the International Monetary Fund.
+<div style="margin-bottom:1rem;">
+  <div style="font-weight:700; color:#000;">
+    The Design and Evolution of IMF-Supported Programs: 2000–2019
+  </div>
+  <div style="font-size:0.9rem; font-style:italic; margin-top:0.1rem;">
+    Forthcoming, IMF History: Overview II (Chapter).
+  </div>
 </div>
 
-<div style="color:#0a2540; font-size:1.15rem; font-weight:700; margin-top:1.4rem; margin-bottom:0.7rem;">
+<div style="color:#0a2540; font-size:1.15rem; font-weight:700; margin:1rem 0 0.5rem 0;">
 At the Reserve Bank of India
 </div>
 
-**State Finances: A Study of Budgets of 2019–20**
+<div style="font-weight:700; color:#000; margin-bottom:1rem;">
+  State Finances: A Study of Budgets of 2019–20
+</div>
 
 ---
 
