@@ -67,39 +67,22 @@ This paper studies the transmission of monetary policy to household consumption 
 ::: {.small}
 *Presentations: GWU Macro Lunch (2025, 2026)*
 :::
+
 ---
 
 ### Selected Policy Contributions
 
-<div style="color:#0a2540; font-size:1.15rem; font-weight:700; margin:0.8rem 0 0.5rem 0;">
-At the International Monetary Fund
-</div>
+#### At the International Monetary Fund
 
-<div style="margin-bottom:0.8rem;">
-  <div style="font-weight:700; color:#000;">
-    The IMF and the Global Financial Crisis
-  </div>
-  <div style="font-size:0.9rem; font-style:italic; margin-top:0.1rem;">
-    Forthcoming, IMF History (Case Study).
-  </div>
-</div>
+**The IMF and the Global Financial Crisis**  
+<span style="font-size:0.9rem;"><em>Forthcoming, IMF History Project (case study).</em></span>
 
-<div style="margin-bottom:1rem;">
-  <div style="font-weight:700; color:#000;">
-    The Design and Evolution of IMF-Supported Programs: 2000–2019
-  </div>
-  <div style="font-size:0.9rem; font-style:italic; margin-top:0.1rem;">
-    Forthcoming, IMF History: Overview II (Chapter).
-  </div>
-</div>
+**The Design and Evolution of IMF-Supported Programs: 2000–2019**  
+<span style="font-size:0.9rem;"><em>Forthcoming, IMF History: Overview II (chapter).</em></span>
 
-<div style="color:#0a2540; font-size:1.15rem; font-weight:700; margin:1rem 0 0.5rem 0;">
-At the Reserve Bank of India
-</div>
+#### At the Reserve Bank of India
 
-<div style="font-weight:700; color:#000; margin-bottom:1rem;">
-  State Finances: A Study of Budgets of 2019–20
-</div>
+**State Finances: A Study of Budgets of 2019–20**
 
 ---
 
