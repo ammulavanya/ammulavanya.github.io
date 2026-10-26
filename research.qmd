@@ -14,17 +14,17 @@ p { text-align: justify; }
 
 ### Job Market Paper
 
-<strong style="color:#0a2540; font-weight:700;">
+<a href="files/JMP_Latest_Lavanya.pdf"
+   style="color:#0a2540; font-weight:700; text-decoration:none;">
   International Financial Flows, Credit Allocation and Productivity
-</strong>
-
-
-<br>
-<span style="font-size:0.9rem; color:#0a2540;">
-  <a href="files/JMP_Latest_Lavanya.pdf" style="color:#0a2540; text-decoration:none;">
+</a><br>
+<span style="font-size:0.9rem;">
+  <a href="files/JMP_Latest_Lavanya.pdf"
+     style="color:#0a2540; text-decoration:none;">
     [Link]
   </a>
 </span>
+
 
 This paper examines how financial liberalization shapes domestic credit allocation and real economic outcomes using detailed bank-firm matched data for India. We exploit a 2004 reform that raised foreign shareholding limits in Indian banks and identify differences in credit allocation patterns across banks with varying exposure to foreign capital inflows. More-exposed banks received larger capital inflows, which relaxed their funding constraints and expanded their overall lending. This increase in bank lending was directed towards the more productive firms in the economy, raising their investment and reducing the overall dispersion of marginal revenue product of capital (MRPK) across firms. This improvement in credit allocation was associated with foreign equity inflows rather than foreign debt financing, highlighting the importance of the form of capital inflows. Quantifying the aggregate effects of this reallocation, we find that the liberalization generated significant gains in total factor productivity (TFP).
 
